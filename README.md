@@ -1,13 +1,11 @@
-# FBL Wiretap Channel — Average Information Leakage (AIL) Analysis
+# Average Information Leakage Analysis of Finite Blocklength Transmissions Over Wiretap Fading Channels
 
 [![MATLAB](https://img.shields.io/badge/MATLAB-R2021a%2B-blue.svg)](https://www.mathworks.com/products/matlab.html)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![IEEE Journal](https://img.shields.io/badge/IEEE-Transactions%20on%20Wireless%20Communications-red.svg)](https://ieeexplore.ieee.org)
+[![DOI](https://img.shields.io/badge/DOI-10.1109%2FTWC.TWC.2024.3400601-red.svg)](https://doi.org/10.1109/TWC.2024.3400601)
 
-> **Paper:** "Performance Analysis of Finite Blocklength Transmissions Over Wiretap Fading Channels: An Average Information Leakage Perspective"  
-> **Authors:** Milad Tatar Mamaghani, Xiangyun Zhou, Nan Yang, A. Lee Swindlehurst, H. Vincent Poor  
-> **Affiliations:** Australian National University · UC Irvine · Princeton University  
-> **Venue:** IEEE Transactions on Wireless Communications (Under Review / Accepted)
+> Milad Tatar Mamaghani, Xiangyun Zhou, Nan Yang, A. Lee Swindlehurst, and H. Vincent Poor, "[Performance Analysis of Finite Blocklength Transmissions Over Wiretap Fading Channels: An Average Information Leakage Perspective](https://doi.org/10.1109/TWC.2024.3400601)," IEEE Transactions on Wireless Communications, vol. 23, no. 10, pp. 13252-13266, Oct. 2024.
+
 
 ---
 
@@ -272,8 +270,10 @@ If you use this code, please cite our paper:
   author  = {Tatar Mamaghani, Milad and Zhou, Xiangyun and Yang, Nan and
              Swindlehurst, A. Lee and Poor, H. Vincent},
   journal = {IEEE Transactions on Wireless Communications},
-  year    = {2024},
-  note    = {Preliminary version presented at IEEE ICC 2024, Denver, CO, USA}
+  volume={23},
+  number={10},
+  pages={13252--13266},
+  year={2024},
 }
 ```
 
@@ -294,17 +294,6 @@ If you use this code, please cite our paper:
 - Australian Research Council Discovery Projects (DP220101318)
 - US National Science Foundation (CNS-2128448, ECCS-2335876)
 
----
-
-## 📬 Contact
-
-| Author | Affiliation | Email |
-|---|---|---|
-| Milad Tatar Mamaghani | Australian National University | milad.tatarmamaghani@anu.edu.au |
-| Xiangyun Zhou | Australian National University | xiangyun.zhou@anu.edu.au |
-| Nan Yang | Australian National University | nan.yang@anu.edu.au |
-| A. Lee Swindlehurst | University of California, Irvine | swindle@uci.edu |
-| H. Vincent Poor | Princeton University | poor@princeton.edu |
 
 ---
 
