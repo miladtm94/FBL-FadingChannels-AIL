@@ -1,0 +1,38 @@
+# MATLAB
+*.asv
+*.m~
+*.mex*
+*.mlapp
+*.mlx
+*.p
+*.slx
+*.slxc
+octave-workspace
+
+# Generated result files (regenerate using simulation scripts)
+data/processed/*.mat
+results/figures/*.fig
+results/figures/*.png
+results/figures/*.pdf
+results/figures/*.eps
+
+# Exceptions: keep placeholder README files
+!data/processed/.gitkeep
+!data/raw/.gitkeep
+!results/figures/.gitkeep
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / Editor
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# MATLAB auto-generated
+slprj/
+codegen/
+matlab.prf
